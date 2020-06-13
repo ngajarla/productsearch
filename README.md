@@ -1,3 +1,4 @@
 # productsearch
 
-This is Product search on Spring boot with no JPA and DB interaction.
+This is simple Product search application on Spring boot framework with no JPA and DB interaction.
+Created dummy data in arraylist object that is pull by rest api's 
